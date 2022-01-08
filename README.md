@@ -1,6 +1,6 @@
 # DIO-inter
 
-## Desafio  de Projeto  sobre Git/ GitHub da DIO
+## Desafio de Projeto sobre Git/ GitHub da DIO
 
 Repositório criado para estudos no bootcamp Inter na DIO
 
