@@ -1,4 +1,4 @@
-# DIO-inter
+<h2>Introdução ao GitHub</h2>
 
 ## Desafio de Projeto sobre Git/ GitHub da DIO
 
